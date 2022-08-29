@@ -13,6 +13,7 @@ Write a code which scrapes data from a website or utilize an API from a public w
 -If you're using any other kind of operating system, make sure you have read through this guide.
 
 -<a href="https://www.ruby-lang.org/en/documentation/installation/">Click here to view the guide</a>
+
 ---------------------------------------
 <h1>Contributor's Guide</h1>
 Download this repo into your computer. Then locate the folder. If the folder is located in Downloads, 
@@ -56,10 +57,15 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
+-----------------------------------
 
 <h1>~<a href="https://medium.com/@seriouslydudelma/changelog-a1c25ef7d369"> CHANGE LOG DOCUMENTATION </a></h1>
 
+-----------------------------------
+
 <h1>~<a href="https://medium.com/@seriouslydudelma/resources-5ea35ead1246"> RESOURCES </a></h1>
+
 ------------------------------------
 <h1><a href="https://medium.com/@seriouslydudelma/ruby-proj-a443789c50bf"> Blog Link</a></h1>
+
 ------------------------------------
