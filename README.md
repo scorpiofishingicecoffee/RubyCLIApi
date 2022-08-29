@@ -1,5 +1,5 @@
 # RubyCLIApi
-Description
+<h1>Description</h1>
 
 A repository for Ruby CLI which allows users to gather information from an API
 Task:
