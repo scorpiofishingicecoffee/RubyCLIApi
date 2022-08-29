@@ -29,3 +29,5 @@ Download this repo into your computer.
 
 -------------------------------------
 
+<a href="https://medium.com/@seriouslydudelma/changelog-a1c25ef7d369"> CHANGE LOG DOCUMENTATION </a>
+
