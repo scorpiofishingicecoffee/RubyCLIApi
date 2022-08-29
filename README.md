@@ -12,7 +12,7 @@ Write a code which scrapes data from a website or utilize an API from a public w
 
 -If you're using any other kind of operating system, make sure you have read through this guide.
 
--<a href="https://www.ruby-lang.org/en/documentation/installation/">Click here</a>
+-<a href="https://www.ruby-lang.org/en/documentation/installation/">Click here to view the guide</a>
 ---------------------------------------
 Download this repo into your computer.
 -To open this repo:
