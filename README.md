@@ -32,4 +32,5 @@ Download this repo into your computer.
 ~<a href="https://medium.com/@seriouslydudelma/changelog-a1c25ef7d369"> CHANGE LOG DOCUMENTATION </a>
 
 ~<a href="https://medium.com/@seriouslydudelma/resources-5ea35ead1246"> RESOURCES </a>
-
+------------------------------------
+<a href="https://medium.com/@seriouslydudelma/ruby-proj-a443789c50bf"> Blog Link</a>
