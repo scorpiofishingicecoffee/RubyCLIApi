@@ -17,6 +17,7 @@ Write a code which scrapes data from a website or utilize an API from a public w
 <h1>Contributor's Guide</h1>
 Download this repo into your computer. Then locate the folder. If the folder is located in Downloads, 
 you should Cd to downloads and if you downloaded it to your Desktop. Cd to your Desktop.
+
 -To open this repo:
 
 -Open your Ruby Command Prompt Bash
