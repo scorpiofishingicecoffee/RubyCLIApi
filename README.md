@@ -14,12 +14,12 @@ Write a code which scrapes data from a website or utilize an API from a public w
 
 -<a href="https://www.ruby-lang.org/en/documentation/installation/">Click here to view the guide</a>
 ---------------------------------------
-Download this repo into your computer.
+Download this repo into your computer. Then locate the folder. If the folder is located in Downloads, you should Cd to downloads and if you downloaded it to your Desktop. Cd to your Desktop.
 -To open this repo:
 
 -Open your Ruby Command Prompt Bash
 
--Type:
+-Type the following to you Ruby Command Prompt Bash:
 
 -Cd Downloads
 
