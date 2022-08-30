@@ -41,6 +41,7 @@ This is to show a lists of games and their information.
 What's in the information?
 
 id, :name, :slug, :rating, :released, :rating_top
+
 -------------------------------------
 <h1>License</h1>
 <h2>The MIT License (MIT)</h2>
