@@ -8,7 +8,7 @@ Write a code which scrapes data from a website or utilize an API from a public w
 
 -If you're using MAC, make sure you have downloaded ZSH BASH.
 
--If you're using Windows, make sure you have Ruby Command Prompt Bash.
+-If you're using Windows, make sure you have Ruby Command Prompt Bash, or a default windows Command Prompt.
 
 -If you're using any other kind of operating system, make sure you have read through this guide.
 
@@ -23,7 +23,7 @@ you should Cd to downloads and if you downloaded it to your Desktop. Cd to your 
 
 -Open your Ruby Command Prompt Bash
 
--Type the following to you Ruby Command Prompt Bash:
+-Type the following to your Command Prompt:
 
 -Cd Downloads
 
