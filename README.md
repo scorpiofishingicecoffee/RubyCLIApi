@@ -98,18 +98,31 @@ Within the Pry, enter:
 Then this informations will show up:
 
 => [#<GAMES:0x000001f7f3b300a0
+
   @id=3498,
+  
   @name="Grand Theft Auto V",
+  
   @rating=4.47,
+  
   @rating_top=5,
+  
   @released="2013-09-17",
+  
   @slug="grand-theft-auto-v">,
+  
  #<GAMES:0x000001f7f3b28940
+ 
   @id=3328,
+  
   @name="The Witcher 3: Wild Hunt",
+  
   @rating=4.67,
+  
   @rating_top=5,
+  
   @released="2015-05-18",
+  
   @slug="the-witcher-3-wild-hunt">,
   
   and so on...
