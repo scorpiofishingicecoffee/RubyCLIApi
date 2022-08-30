@@ -6,7 +6,7 @@ Task:
 Write a code which scrapes data from a website or utilize an API from a public website.
 <h1>Instructions</h1>
 
--If you're using MAC, make sure you have downloaded ZSH BASH.
+-If you're using MAC, make sure to <a href = "https://abi-travers.medium.com/how-to-run-a-ruby-file-in-terminal-on-a-mac-f044853b1f72"> read through this. It's a guide.</a>
 
 -If you're using Windows, make sure you have Ruby Command Prompt Bash, or a default windows Command Prompt.
 
