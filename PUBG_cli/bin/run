@@ -1,5 +1,0 @@
-#!/usr/bin/env ruby
-
-require_relative '../lib/PUBG_cli.rb'
-
-CLI.new.start
