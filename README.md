@@ -190,3 +190,4 @@ From: C:/Users/61451/Desktop/PUBG_cli/lib/PUBG_cli/api_or_scraper.rb:15 API.get_
 <h1><a href="https://medium.com/@seriouslydudelma/ruby-proj-a443789c50bf"> Blog Link</a></h1>
 
 ------------------------------------
+<h1><a href="https://youtu.be/hvgZUb5lngI">Video Link</a></h1>
