@@ -51,6 +51,7 @@ Please provide your name below then hit enter to continue.
 Please enter your name.
 
 [LOL]
+
 Cool! LOL, it's nice having you here.
 
 Please enter 'y' for yes or 'e' to exit.
