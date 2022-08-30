@@ -35,6 +35,7 @@ you should Cd to downloads and if you downloaded it to your Desktop. Cd to your 
 
 This is what you will see:
 
+-------------------------------------
 Loading...
 Welcome!
 This is a Ruby CLI API Scraper Application
@@ -88,6 +89,8 @@ From: C:/Users/61451/Desktop/PUBG_cli/lib/PUBG_cli/api_or_scraper.rb:15 API.get_
 
 [1] pry(API)>
 
+--------------------------
+
 Within the Pry, enter:
 
 -GAMES.all
@@ -115,6 +118,8 @@ Then this informations will show up:
 What if you enter 'e'?
 
 This is what you'll see:
+
+------------------------------------
 
 You can exit from the Pry Shell.
 
@@ -150,8 +155,6 @@ From: C:/Users/61451/Desktop/PUBG_cli/lib/PUBG_cli/api_or_scraper.rb:15 API.get_
     16:   end
 
 [1] pry(API)>
-
--------------------------------------
 
 -------------------------------------
 <h1>License</h1>
