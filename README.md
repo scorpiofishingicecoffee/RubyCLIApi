@@ -27,6 +27,8 @@ you should Cd to downloads and if you downloaded it to your Desktop. Cd to your 
 
 -Cd Downloads
 
+MAKE SURE TO UNZIP THE FOLDER
+
 -Cd RubyCLIApi
 
 -Cd PUBG_cli
