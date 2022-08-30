@@ -56,6 +56,7 @@ Cool! LOL, it's nice having you here.
 Please enter 'y' for yes or 'e' to exit.
 
 If you enter 'y'. This is what you'll see:
+----------------------------------------
 
 Please type 'y' then enter to enter PRY shell.
 
