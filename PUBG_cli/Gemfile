@@ -1,0 +1,15 @@
+# frozen_string_literal: true
+
+source "https://rubygems.org"
+
+# Specify your gem's dependencies in PUBG_cli.gemspec
+gemspec
+
+gem "rake", "~> 13.0"
+gem "pry"
+gem "json"
+gem 'rest-client', '~> 2.1'
+gem "nokogiri"
+gem 'httparty', '~> 0.20.0'
+
+gem "ruby-lsp", "~> 0.2.3", :group => :development
