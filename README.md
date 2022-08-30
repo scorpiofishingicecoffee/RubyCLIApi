@@ -33,14 +33,107 @@ you should Cd to downloads and if you downloaded it to your Desktop. Cd to your 
 
 -Ruby bin/run
 
-You will then be directed to pry. Within the Pry, enter:
+This is what you will see:
+
+Loading...
+Welcome!
+This is a Ruby CLI API Scraper Application
+Hey! Welcome to the Ruby CLI API Scraper Application!
+I only provide lists of games tho.
+Please provide your name below then hit enter to continue.
+Please enter your name.
+[LOL]
+Cool! LOL, it's nice having you here.
+Please enter 'y' for yes or 'e' to exit.
+
+If you enter 'y'. This is what you'll see:
+
+Please type 'y' then enter to enter PRY shell.
+Then type GAMES.all then enter to call for API data.
+It's loading. Please wait...
+For a better Pry experience on Windows, please use ansicon:
+  https://github.com/adoxa/ansicon
+If you use an alternative to ansicon and don't want to see this warning again,
+you can add "Pry.config.windows_console_warning = false" to your pryrc.
+
+From: C:/Users/61451/Desktop/PUBG_cli/lib/PUBG_cli/api_or_scraper.rb:15 API.get_data:
+
+     2: def self.get_data
+     3:   require 'uri'
+     4:   require 'net/http'
+     5:   require 'openssl'
+     6:   require 'pry'
+     7:   require 'rest-client'
+     8:   require 'json'
+     9:
+    10:   response = RestClient.get('https://api.rawg.io/api/games?key=3c53bed4350c498485c6ee01a33bc066')
+    11:   games_array = JSON.parse(response)["results"]
+    12:   games_array.each do |game|
+    13:   GAMES.new(game)
+    14:   end
+ => 15:   binding.pry
+    16:   end
+
+[1] pry(API)>
+
+Within the Pry, enter:
 
 -GAMES.all
 
-This is to show a lists of games and their information.
-What's in the information?
+Then this informations will show up:
 
-id, :name, :slug, :rating, :released, :rating_top
+=> [#<GAMES:0x000001f7f3b300a0
+  @id=3498,
+  @name="Grand Theft Auto V",
+  @rating=4.47,
+  @rating_top=5,
+  @released="2013-09-17",
+  @slug="grand-theft-auto-v">,
+ #<GAMES:0x000001f7f3b28940
+  @id=3328,
+  @name="The Witcher 3: Wild Hunt",
+  @rating=4.67,
+  @rating_top=5,
+  @released="2015-05-18",
+  @slug="the-witcher-3-wild-hunt">,
+  
+  and so on...
+
+-------------------------------------
+What if you enter 'e'?
+
+This is what you'll see:
+
+You can exit from the Pry Shell.
+Within the PRY Shell type 'exit!' then enter to exit from Pry Shell.
+Outside the Pry Shell, and within the Ruby Shell, type 'exit' then enter to exit completely.
+
+For a better Pry experience on Windows, please use ansicon:
+  https://github.com/adoxa/ansicon
+If you use an alternative to ansicon and don't want to see this warning again,
+you can add "Pry.config.windows_console_warning = false" to your pryrc.
+
+From: C:/Users/61451/Desktop/PUBG_cli/lib/PUBG_cli/api_or_scraper.rb:15 API.get_data:
+
+     2: def self.get_data
+     3:   require 'uri'
+     4:   require 'net/http'
+     5:   require 'openssl'
+     6:   require 'pry'
+     7:   require 'rest-client'
+     8:   require 'json'
+     9:
+    10:   response = RestClient.get('https://api.rawg.io/api/games?key=3c53bed4350c498485c6ee01a33bc066')
+    11:   games_array = JSON.parse(response)["results"]
+    12:   games_array.each do |game|
+    13:   GAMES.new(game)
+    14:   end
+ => 15:   binding.pry
+    16:   end
+
+[1] pry(API)>
+
+-------------------------------------
 
 -------------------------------------
 <h1>License</h1>
