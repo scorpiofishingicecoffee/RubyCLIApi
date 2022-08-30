@@ -38,22 +38,34 @@ This is what you will see:
 Loading...
 Welcome!
 This is a Ruby CLI API Scraper Application
+
 Hey! Welcome to the Ruby CLI API Scraper Application!
+
 I only provide lists of games tho.
+
 Please provide your name below then hit enter to continue.
+
 Please enter your name.
+
 [LOL]
 Cool! LOL, it's nice having you here.
+
 Please enter 'y' for yes or 'e' to exit.
 
 If you enter 'y'. This is what you'll see:
 
 Please type 'y' then enter to enter PRY shell.
+
 Then type GAMES.all then enter to call for API data.
+
 It's loading. Please wait...
+
 For a better Pry experience on Windows, please use ansicon:
+
   https://github.com/adoxa/ansicon
+  
 If you use an alternative to ansicon and don't want to see this warning again,
+
 you can add "Pry.config.windows_console_warning = false" to your pryrc.
 
 From: C:/Users/61451/Desktop/PUBG_cli/lib/PUBG_cli/api_or_scraper.rb:15 API.get_data:
@@ -105,12 +117,18 @@ What if you enter 'e'?
 This is what you'll see:
 
 You can exit from the Pry Shell.
+
 Within the PRY Shell type 'exit!' then enter to exit from Pry Shell.
+
 Outside the Pry Shell, and within the Ruby Shell, type 'exit' then enter to exit completely.
 
+
 For a better Pry experience on Windows, please use ansicon:
+
   https://github.com/adoxa/ansicon
+  
 If you use an alternative to ansicon and don't want to see this warning again,
+
 you can add "Pry.config.windows_console_warning = false" to your pryrc.
 
 From: C:/Users/61451/Desktop/PUBG_cli/lib/PUBG_cli/api_or_scraper.rb:15 API.get_data:
