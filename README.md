@@ -191,3 +191,6 @@ From: C:/Users/61451/Desktop/PUBG_cli/lib/PUBG_cli/api_or_scraper.rb:15 API.get_
 
 ------------------------------------
 <h1><a href="https://youtu.be/hvgZUb5lngI">Video Link</a></h1>
+
+# UPDATED VERSION
+https://github.com/scorpiofishingicecoffee/RubyCLIApi/tree/master
