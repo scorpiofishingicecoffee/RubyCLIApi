@@ -14,6 +14,69 @@ Write a code which scrapes data from a website or utilize an API from a public w
 
 -<a href="https://www.ruby-lang.org/en/documentation/installation/">Click here to view the guide</a>
 
+# UPDATED VERSION
+https://github.com/scorpiofishingicecoffee/RubyCLIApi/tree/master
+
+<h1>Contributor's Guide for an updated version</h1>
+Download this repo into your computer. Then locate the folder. If the folder is located in Downloads, 
+you should Cd to downloads and if you downloaded it to your Desktop. Cd to your Desktop.
+
+-To open this repo:
+
+-Open your Ruby Command Prompt Bash
+
+-Type the following to your Command Prompt:
+
+-Cd Downloads
+
+MAKE SURE TO UNZIP THE FOLDER
+
+-Cd RubyCLIApi
+
+-Cd PUBG_cli
+
+-Ruby bin/run
+
+Note: When Selecting from a category, Copy the name you have selected by highligting the name of the game and press ctrl c then paste it under the SELECT A GAME FOR MOTE INFORMATION. Then press enter.
+
+This is what you will see:
+![Screenshot (86)](https://user-images.githubusercontent.com/105265074/194184724-72332e23-4a13-4145-84a8-cbe6fb850782.png)
+![Screenshot (85)](https://user-images.githubusercontent.com/105265074/194184736-65f3bdec-9328-46c8-b622-95480ec2a0d0.png)
+![Screenshot (84)](https://user-images.githubusercontent.com/105265074/194184741-fd926cc7-2143-4df2-a730-817d6d9ab61c.png)
+![Screenshot (83)](https://user-images.githubusercontent.com/105265074/194184755-cdf8c301-e3f1-4b6b-bda6-ab630a0e017a.png)
+
+# UPDATED VERSION
+https://github.com/scorpiofishingicecoffee/RubyCLIApi/tree/master
+
+<h1>Contributor's Guide</h1>
+Download this repo into your computer. Then locate the folder. If the folder is located in Downloads, 
+you should Cd to downloads and if you downloaded it to your Desktop. Cd to your Desktop.
+
+-To open this repo:
+
+-Open your Ruby Command Prompt Bash
+
+-Type the following to your Command Prompt:
+
+-Cd Downloads
+
+MAKE SURE TO UNZIP THE FOLDER
+
+-Cd RubyCLIApi
+
+-Cd PUBG_cli
+
+-Ruby bin/run
+
+Note: When Selecting from a category, Copy the name you have selected by highligting the name of the game and press ctrl c then paste it under the SELECT A GAME FOR MOTE INFORMATION. Then press enter.
+
+This is what you will see:
+![Screenshot (86)](https://user-images.githubusercontent.com/105265074/194184724-72332e23-4a13-4145-84a8-cbe6fb850782.png)
+![Screenshot (85)](https://user-images.githubusercontent.com/105265074/194184736-65f3bdec-9328-46c8-b622-95480ec2a0d0.png)
+![Screenshot (84)](https://user-images.githubusercontent.com/105265074/194184741-fd926cc7-2143-4df2-a730-817d6d9ab61c.png)
+![Screenshot (83)](https://user-images.githubusercontent.com/105265074/194184755-cdf8c301-e3f1-4b6b-bda6-ab630a0e017a.png)
+
+
 ---------------------------------------
 <h1>Contributor's Guide</h1>
 Download this repo into your computer. Then locate the folder. If the folder is located in Downloads, 
@@ -192,5 +255,3 @@ From: C:/Users/61451/Desktop/PUBG_cli/lib/PUBG_cli/api_or_scraper.rb:15 API.get_
 ------------------------------------
 <h1><a href="https://youtu.be/hvgZUb5lngI">Video Link</a></h1>
 
-# UPDATED VERSION
-https://github.com/scorpiofishingicecoffee/RubyCLIApi/tree/master
